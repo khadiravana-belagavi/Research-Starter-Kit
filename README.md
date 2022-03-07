@@ -115,7 +115,7 @@ date = arguments.date
 - Accessing ADA - `ssh dheerajreddy.p@ada.iiit.ac.in`
 - There are mainly 2 types of user accounts on ADA - student and research. Student accounts have low quality of service, i.e., can access a max of only 40 CPUs and 2 GPUs. Research accounts have medium QoS, i.e., 40 CPUs and 4 GPUs. If you want to increase QoS, send an email to hpc@iiit.ac.in CCing your advisor and stating why you need more.
 - ADA has two modes - regular, node
-- In regular mode, you have access to no resources. You just have a CPU which you can use to transfer data. You can't even run python in this mode. This is the mode you enter in immediately after logging in. 
+- In regular mode, you have access to no resources. You just have a CPU which you can use to transfer data.This is the mode you enter in immediately after logging in. 
     - In regular mode you have access to two large scale data storage partitions - `share1` and `share2` \
           - `share1` - `/share1/<username>`
           - `share2` - `/share2`
